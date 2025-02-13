@@ -1,0 +1,28 @@
+🔹① Problem	: Querying All Column
+	
+	Task: Retrieve all columns for American cities from the CITY table where the population is greater than 100,000.
+
+	Solution 
+		SELECT *  FROM CITY  
+		WHERE COUNTRYCODE = 'USA'  
+		AND POPULATION > 100000;
+
+	Explanation 
+		SELECT * → Retrieves all columns from the CITY table.
+		WHERE COUNTRYCODE = 'USA' → Filters records where the country code is USA.
+		AND POPULATION > 100000 → Ensures only cities with a population greater than 100,000 are selected.
+
+
+______________________________________________________________________________________________________________________________
+🔹② Problem: Querying Only the City Names
+	Task: Retrieve only the city names (NAME field) for American cities with a population greater than 120,000.
+	
+	Solution 
+		SELECT NAME FROM CITY  
+		WHERE COUNTRYCODE = 'USA'  
+		AND POPULATION > 120000;
+
+	Explanation 
+		SELECT NAME → Retrieves only the city names instead of all columns.
+		WHERE COUNTRYCODE = 'USA' → Ensures the cities belong to the USA.
+		AND POPULATION > 120000 → Filters out cities with a population ≤ 120,000.
