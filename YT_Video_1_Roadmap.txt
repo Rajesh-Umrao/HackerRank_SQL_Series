@@ -1,0 +1,22 @@
+SQL is a crucial skill for data analysts, engineers, and developers, and mastering it can open doors to exciting career opportunities. That’s why I’m launching the SQL Beginner Practice Series, where we’ll break down complex concepts into easy-to-understand lessons with hands-on practice.
+
+🔥 What to Expect in This Series?
+	In this step-by-step series, we’ll start from the basics and gradually move towards advanced SQL concepts. Along the way, we’ll solve real-world 	problems and tackle interview-level SQL questions to sharpen your skills.
+
+📌 Topics We’ll Cover:
+	✅ SQL Basics — SELECT, WHERE, ORDER BY, and Filtering Data
+	✅ Joins & Relationships — INNER, LEFT, RIGHT, and FULL JOIN
+	✅ Aggregations — GROUP BY, HAVING, COUNT, SUM, AVG
+	✅ Subqueries & CTEs — Writing optimized and efficient queries
+	✅ Advanced SQL — Window functions, Indexing, Performance Optimization
+	✅ Real-World SQL Challenges & Interview Questions
+
+🔹 Each episode includes hands-on practice questions with step-by-step explanations to help you learn by doing!
+
+🎯 Who Is This For?
+	Beginners who want to build a strong foundation in SQL
+	Students & Job Seekers preparing for SQL-based interviews
+	Data Analysts & Developers looking to refine their querying skills
+
+📢 Ready to dive in? Join me on this learning journey, and let’s master SQL together! 🚀
+
