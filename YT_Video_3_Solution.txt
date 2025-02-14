@@ -1,0 +1,24 @@
+🔹① Problem	: Querying All Column for every row 
+	
+	Task: Query all columns (attributes) for every row in the CITY table.
+
+	Solution 
+		SELECT *  FROM CITY  
+
+	Explanation 
+		SELECT * → Retrieves all columns from the CITY table.
+
+
+______________________________________________________________________________________________________________________________
+🔹② Problem: Querying all column of particular City 
+	Task: Query all columns for a city in CITY with the ID 1661.
+	
+	Solution 
+		SELECT NAME FROM CITY  
+		WHERE ID = 1661  
+
+
+	Explanation 
+		SELECT NAME → Retrieves only the city names instead of all columns.
+		WHERE ID=1661 → Ensures the City should have ID 1661.
+	
