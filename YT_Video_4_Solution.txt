@@ -1,0 +1,27 @@
+🔹① Problem	: Querying All Column for every row 
+	
+	Task: Query all columns (attributes) of every Japanese city in the CITY table. COUNTRYCODE for Japan is JPN.
+
+	Solution 
+		SELECT *  FROM CITY 
+		WHERE COUNTRYCODE = 'JPN'
+ 
+
+	Explanation 
+		SELECT * → Retrieves all columns from the CITY table.
+		WHERE COUNTRYCODE = 'JPN' → Ensures the City should be selected from country Japan.
+
+
+______________________________________________________________________________________________________________________________
+🔹② Problem: Querying name column 
+	Task: Query the names of all the Japanese cities in the CITY table.COUNTRYCODE for Japan is JPN.
+	
+	Solution 
+		SELECT NAME FROM CITY  
+		WHERE COUNTRYCODE = 'JPN'
+
+
+	Explanation 
+		SELECT NAME → Retrieves only the city names instead of all columns.
+		WHERE COUNTRYCODE = 'JPN' → Ensures the City should be selected from country Japan.
+	
