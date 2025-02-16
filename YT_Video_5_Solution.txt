@@ -1,0 +1,14 @@
+🔹① Problem	: Querying specific Columns of a table 
+	
+	Task: Query a list of CITY and STATE from the STATION table
+	Solution 
+		SELECT CITY, STATE  FROM CITY 
+		
+ 
+
+	Explanation 
+		SELECT  → Retrieves CITY & STATE columns from the STATION table.
+		
+
+
+______________________________________________________________________________________________________________________________
