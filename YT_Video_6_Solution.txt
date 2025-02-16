@@ -1,0 +1,15 @@
+🔹① Problem	: Querying specific Columns of a table 
+	
+	Task: Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+	Solution 
+		SELECT COUNT(CITY)-COUNT(DISTINCT CITY) FROM CITY 
+		
+ 
+
+	Explanation 
+		COUNT(CITY)  → Retrieves total number of count of all cities(that include duplicates) from the STATION table.
+		COUNT(CITY) → Retrieves total number of distinct count of cities from the STATION table.
+		
+
+
+______________________________________________________________________________________________________________________________
