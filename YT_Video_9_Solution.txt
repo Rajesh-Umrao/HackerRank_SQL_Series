@@ -1,0 +1,30 @@
+🔹① Problem	: Querying specific Columns of a table 
+	
+	Task: Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result 	cannot contain duplicates
+
+
+	A)Solution-Using like operator
+
+		SELECT CITY FROM STATION
+		WHERE 
+			CITY LIKE 'a%' OR
+			CITY LIKE 'e%' OR
+			CITY LIKE 'i%' OR
+			CITY LIKE 'o%' OR
+			CITY LIKE 'u%' OR
+
+		Explanation 
+			LIKE operator  → Ensure that 1st letter should be vowels 
+
+_______________________________________________________________________________________
+	
+		B)Solution-using REGEXP (applicable only to MySQL )
+		SELECT CITY FROM STATION
+		WHERE CITY REXEXP '^[aeiou]'
+
+		Explanation 
+			REGEXP  → Ensure that 1st letter should be vowels  
+
+
+
+______________________________________________________________________________________________________________
