@@ -1,0 +1,57 @@
+🔹① Problem8	: Weather Observation Station 8
+	
+	Task: Query the list of CITY names from STATION which have vowels (i.e., a, e, i, o, and u) as both their first and last characters. 
+		Your result cannot contain duplicates.
+
+__________________________________________________________
+	Approach-1: Using Like clause 
+
+		SELECT DISTINCT CITY FROM STATION 
+		WHERE 
+  			(CITY LIKE 'a%' OR CITY LIKE 'e%' OR CITY LIKE 'i%' OR CITY LIKE 'o%' OR CITY LIKE 'u%')
+   		 AND 
+    			(CITY LIKE '%a' OR CITY LIKE '%e' OR CITY LIKE '%i' OR CITY LIKE '%o' OR CITY LIKE '%u');
+
+
+		Explanation 
+			LIKE operator  → Ensure that 1st letter should be vowels 
+
+
+___________________________________________________________
+	Approach-2:using REGEXP (applicable only to MySQL )
+
+		SELECT CITY FROM STATION
+		WHERE 
+			CITY REXEXP '^[aeiou]'
+			AND 
+			CITY REXEXP '$[aeiou]'
+		Explanation 
+			REGEXP  → Ensure that 1st letter should be vowels  
+
+___________________________________________________________
+	Approach-3:using LEFT/RIGHT() with IN 
+
+		SELECT DISTINCT CITYFROM STATION
+		WHERE 
+    			LEFT(CITY, 1) IN ('a', 'e', 'i', 'o', 'u')
+		    AND 
+			RIGHT(CITY, 1) IN ('a', 'e', 'i', 'o', 'u');
+		
+		Explanation 
+			LEFT  → Ensure that 1st letter should be vowels  
+			RIGHT  → Ensure that LAST letter should be vowels  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
