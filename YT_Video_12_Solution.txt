@@ -1,0 +1,66 @@
+🔹① Problem: Weather Observation Station 9
+	
+Task: Query the list of CITY names from STATION that do not start with vowels. 
+Your result cannot contain duplicates.
+
+__________________________________________________________
+Approach-1: Using Like clause 
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY NOT LIKE 'A%'
+AND CITY NOT LIKE 'E%'
+AND CITY NOT LIKE 'I%'
+AND CITY NOT LIKE 'O%'
+AND CITY NOT LIKE 'U%';
+
+
+
+Explanation 
+
+NOT LIKE 'A%' excludes cities starting with 'A'
+Repeat for E, I, O, U
+This works for both uppercase and lowercase automatically (in most databases).
+
+
+___________________________________________________________
+Approach-2:using REGEXP (applicable only to MySQL )
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY NOT REGEXP '^[AEIOUaeiou]';
+
+Explanation:
+
+^ means the start of the string.
+[AEIOUaeiou] is a character class matching any vowel.
+NOT REGEXP excludes cities starting with any vowel.
+
+
+
+___________________________________________________________
+Approach-3:using LEFT/RIGHT() with IN 
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE LEFT(CITY, 1) NOT IN ('A', 'E', 'I', 'O', 'U');
+
+Explanation:
+
+LEFT(CITY, 1) gives the first character.
+NOT IN excludes vowels.
+This is highly readable and works in almost all SQL dialects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
