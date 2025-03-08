@@ -1,0 +1,76 @@
+🔹① Problem: Weather Observation Station 11
+	
+Task: Query the list of CITY names from STATION that Either Do Not Start or Do Not End with Vowels that do not start with vowels. 
+Your result cannot contain duplicates.
+
+__________________________________________________________
+Approach-1: Using Like clause 
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY NOT LIKE 'A%' 
+   AND CITY NOT LIKE 'E%' 
+   AND CITY NOT LIKE 'I%' 
+   AND CITY NOT LIKE 'O%' 
+   AND CITY NOT LIKE 'U%'
+OR CITY NOT LIKE '%A'
+   AND CITY NOT LIKE '%E'
+   AND CITY NOT LIKE '%I'
+   AND CITY NOT LIKE '%O'
+   AND CITY NOT LIKE '%U';
+
+
+
+Explanation 
+The first half checks if the city does not start with a vowel.
+The second half checks if the city does not end with a vowel.
+The OR ensures if either condition is met, the city is included.
+Works in all major databases (MySQL, SQL Server, PostgreSQL, Oracle, etc.)
+
+
+___________________________________________________________
+Approach-2:using REGEXP (applicable only to MySQL )
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY NOT REGEXP '^[aeiouAEIOU]' 
+   OR CITY NOT REGEXP '[aeiouAEIOU]$';
+
+
+Explanation:
+
+^[aeiouAEIOU] — Matches cities that start with a vowel
+[aeiouAEIOU]$ — Matches cities that end with a vowel
+NOT REGEXP flips the logic, so we only get non-vowel starters or enders.
+
+
+___________________________________________________________
+Approach-3:using LEFT/RIGHT() with IN 
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE LEFT(CITY, 1) NOT IN ('A', 'E', 'I', 'O', 'U')
+   OR RIGHT(CITY, 1) NOT IN ('A', 'E', 'I', 'O', 'U');
+
+
+Explanation:
+
+LEFT() gets the first character
+RIGHT() gets the last character
+NOT IN excludes vowels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
