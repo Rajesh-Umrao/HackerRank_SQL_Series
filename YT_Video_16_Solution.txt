@@ -1,0 +1,33 @@
+🔹① Problem: Higher than 75 marks
+	
+Task: Query the Name of any student in STUDENTS who scored higher than  75 Marks. Order your output by the last three characters of each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID.
+
+__________________________________________________________
+Approach-1:  Using RIGHT() (Cleaner for the Last n Characters)
+
+SELECT NAME
+FROM STUDENTS
+WHERE MARKS > 75
+ORDER BY RIGHT(NAME, 3) ASC, ID ASC;
+
+
+Explanation
+RIGHT(NAME, 3) directly retrieves the last three characters.
+This method is concise, improving readability.
+
+
+___________________________________________________________
+Approach-2:Using SUBSTRING() (Most Common Approach)
+
+SELECT NAME
+FROM STUDENTS
+WHERE MARKS > 80
+ORDER BY SUBSTRING(NAME, -3) ASC, ID ASC;
+
+
+Explanation
+WHERE MARKS > 80 filters out students with marks below the threshold.
+SUBSTRING(NAME, -3) extracts the last three characters of the NAME.
+ORDER BY sorts by the extracted substring.
+Adding ID ASC ensures correct ordering when multiple names share the same ending.
+
