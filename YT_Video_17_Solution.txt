@@ -1,9 +1,9 @@
-🔹① Problem: Employee Salaries
+🔹① Problem: Employee Names
 	
 Task: Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in alphabetical order.
 
 __________________________________________________________
-Approach-1:  Using RIGHT() (Cleaner for the Last n Characters)
+Approach-1:  Select and order by
 
 SELECT Name
 FROM Employee
