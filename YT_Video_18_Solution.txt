@@ -1,0 +1,21 @@
+🔹① Problem: Employee Salaries
+	
+Task: Write a query that prints a list of employee names (i.e.: the name attribute) for employees in Employee having a salary greater than 2000 per month who have been employees for less than  10 months. Sort your result by ascending employee_id. 
+
+__________________________________________________________
+Approach-1:  
+
+SELECT Name
+FROM Employee
+WHERE Salary > 2000 AND Months < 10
+ORDER BY Employee_id ASC;
+
+
+🔎 Explanation
+SELECT Name → Retrieves only the employee names.
+FROM Employee → Specifies the table to fetch data from.
+WHERE Salary > 2000 → Filters employees earning more than 2000 per month.
+AND Months < 10 → Ensures that employees have worked for less than 10 months.
+ORDER BY Employee_id ASC → Sorts results by Employee_id in ascending order.
+
+___________________________________________________________
