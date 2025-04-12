@@ -1,0 +1,10 @@
+👉Problem: Revising Aggregations - Averages
+
+Query the average population of all cities in CITY where District is California.
+__________________________________________________________
+👉SOLUTION: 
+SELECT AVG(Population) AS Average_California_Population
+FROM CITY
+WHERE District = 'California';
+
+__________________________________________________________
