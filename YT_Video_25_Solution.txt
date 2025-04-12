@@ -1,0 +1,18 @@
+👉Problem: Revising Aggregations - The Sum Function
+
+Query the total population of all cities in CITY where District is California.
+__________________________________________________________
+👉SOLUTION: 
+Approach-1: Using SUM() & WHERE Clause
+
+SELECT SUM(Population) AS Total_California_Population
+FROM CITY
+WHERE District = 'California';
+
+__________________________________________________________
+👉SOLUTION: 
+Approach-2: Using SUM() & GROUPBY & HAVING
+
+SELECT SUM(Population) AS Total_California_Population
+FROM CITY
+GROUP BY District HAVING District = 'California';
