@@ -1,0 +1,10 @@
+👉Problem: Revising Aggregations - The Count Function
+
+Query a count of the number of cities in CITY having a Population larger than 100000
+__________________________________________________________
+👉SOLUTION
+SELECT COUNT(*) AS City_Count
+FROM CITY
+WHERE Population > 100000;
+
+__________________________________________________________
