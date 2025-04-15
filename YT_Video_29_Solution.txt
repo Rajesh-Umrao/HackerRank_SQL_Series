@@ -1,0 +1,8 @@
+👉Problem: Population Density Difference
+
+Query the difference between the maximum and minimum populations in CITY.
+__________________________________________________________
+👉SOLUTION: 
+SELECT MAX(Population)-MIN(Population) as diff FROM CITY
+
+__________________________________________________________
