@@ -1,0 +1,31 @@
+👉Problem: The blunder
+
+Samantha was tasked with calculating the average monthly salaries for all employees in the EMPLOYEES table, 
+but did not realize her keyboard’s 0 key was broken until after completing the calculation. 
+She wants your help finding the difference between her miscalculation (using salaries with any zeros removed), 
+and the actual average salary. Write a query calculating the amount of error (i.e.: actual and average monthly salaries), 
+and round it up to the next integer
+__________________________________________________________
+👉SOLUTION-1: Work in MYSQL Server
+SELECT 
+    CEIL(
+        AVG(SALARY) - 
+        AVG(REPLACE(SALARY, '0', ''))
+    ) AS salary_error
+FROM EMPLOYEES;
+
+__________________________________________________________
+👉SOLUTION-2: Work in MSSQL SERVER or any other SQL server 
+SELECT 
+    CEILING(
+        AVG(CAST(SALARY AS DECIMAL(18,2))) -
+        AVG(
+            CAST(
+                NULLIF(REPLACE(CAST(SALARY AS VARCHAR), '0', ''), '') 
+                AS DECIMAL(18,2)
+            )
+        )
+    ) AS salary_error
+FROM EMPLOYEES;
+
+__________________________________________________________
