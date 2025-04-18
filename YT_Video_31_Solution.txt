@@ -1,0 +1,31 @@
+👉Problem: The Earners
+
+We define an employee's total earnings to be their monthly monthsxsalary worked, 
+and the maximum total earnings to be the maximum total earnings for any employee in the Employee table. 
+Write a query to find the maximum total earnings for all employees as well as the total number of employees who have maximum total earnings. 
+Then print these values as  space-separated integers.
+
+__________________________________________________________
+👉SOLUTION-1:  Using CTE (Common Table Expression)
+WITH temp AS (
+    SELECT (months * salary) AS earnings
+    FROM Employee
+)
+SELECT MAX(earnings), COUNT(*)
+FROM temp
+WHERE earnings = (SELECT MAX(earnings) FROM temp);
+
+__________________________________________________________
+👉SOLUTION-2: using SUB-QUERY 
+SELECT MAX(earnings), COUNT(*)
+FROM (
+    SELECT (months * salary) AS earnings
+    FROM Employee
+) AS temp
+WHERE earnings = (
+    SELECT MAX(months * salary) FROM Employee
+);
+
+__________________________________________________________
+
+
