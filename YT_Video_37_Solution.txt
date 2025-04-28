@@ -1,0 +1,70 @@
+----------------------------------------------------------------
+
+👉Problem 1️⃣: Sum of Populations of Cities in Asia
+
+Given the CITY and COUNTRY tables, query the sum of the populations of all cities where the CONTINENT is ‘Asia’.
+Note: CITY.CountryCode and COUNTRY.Code are matching key columns. 
+
+👉SOLUTION:MYSQL
+----------------
+SELECT 
+    SUM(c.POPULATION) AS total_population
+FROM 
+    CITY c
+JOIN 
+    COUNTRY co
+ON 
+    c.COUNTRYCODE = co.CODE
+WHERE 
+    co.CONTINENT = 'Asia';
+
+
+
+---------------------------------------------------------------
+
+👉Problem 2️⃣: List Cities in Africa
+📚 Problem:
+Given the CITY and COUNTRY tables, query the names of all cities where the CONTINENT is ‘Africa’.
+Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
+
+👉SOLUTION:MYSQL
+-----------------
+SELECT 
+    c.NAME 
+FROM 
+    CITY c
+JOIN 
+    COUNTRY co
+ON 
+    c.COUNTRYCODE = co.CODE
+WHERE 
+    co.CONTINENT = 'Africa';
+
+
+---------------------------------------------------------------
+
+👉Problem 3️⃣: Average City Population per Continent
+📚 Problem:
+Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and
+their respective average city populations (CITY.Population) rounded down to the nearest integer.
+Note: CITY.CountryCode and COUNTRY.Code are matching key columns
+
+👉SOLUTION:MYSQL
+-----------------
+SELECT 
+    co.CONTINENT, 
+    FLOOR(AVG(c.POPULATION)) AS avg_city_population
+FROM 
+    CITY c
+JOIN 
+    COUNTRY co
+ON 
+    c.COUNTRYCODE = co.CODE
+GROUP BY 
+    co.CONTINENT;
+
+
+
+
+
+
