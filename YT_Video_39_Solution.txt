@@ -1,4 +1,4 @@
-👉Problem 1️⃣:The Top competitors 
+👉Problem 1️⃣:The Report
 
 You are given two tables: Students and Grades. Students contains three columns ID, Name and Marks.
 Grades contains the following data: GRADE, MIN_MARKS, MAX_MARKS
