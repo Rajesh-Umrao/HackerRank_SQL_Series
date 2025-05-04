@@ -1,0 +1,55 @@
+👉Problem 1️⃣:The Top competitors 
+
+You are given two tables: Students and Grades. Students contains three columns ID, Name and Marks.
+Grades contains the following data: GRADE, MIN_MARKS, MAX_MARKS
+
+Ketty gives Eve a task to generate a report containing three columns: Name, Grade and Mark. Ketty doesn't want the NAMES of those students who received a grade lower than 8. The report must be in descending order by grade -- i.e. higher grades are entered first. If there is more than one student with the same grade (8-10) assigned to them, order those particular students by their name alphabetically. Finally, if the grade is lower than 8, use "NULL" as their name and list them by their grades in descending order. If there is more than one student with the same grade (1-7) assigned to them, order those particular students by their marks in ascending order.
+
+Write a query to help Eve.
+
+
+
+📰SOLUTION: APPROACH-1: MYSQL
+----------------------------------------------------------------
+with cte1 as(
+select 
+    s.name,
+    G.grade, 
+    S.marks 
+FROM students AS S
+JOIN grades AS G ON S.marks BETWEEN G.min_mark AND G.max_mark
+),
+-- ------------------
+cte2 as(
+select 
+    case when grade>=8 then name else null end as name ,
+    grade, 
+    marks 
+from cte1
+)
+-- ------------------
+select 
+    name, grade, marks 
+from cte2 
+ORDER BY 
+    Grade DESC,
+    CASE  WHEN Grade >= 8 THEN Name ELSE NULl END ASC,
+    CASE  WHEN Grade < 8 THEN Marks ELSE NULL END ASC;
+
+---------------------------------------------------------------
+
+
+📰SOLUTION: APPROACH-2:MYSQL
+
+SELECT 
+    CASE WHEN G.grade >= 8 THEN S.name ELSE NULL END AS name,
+    G.grade, 
+    S.marks 
+FROM students AS S
+JOIN grades AS G 
+  ON S.marks BETWEEN G.min_mark AND G.max_mark
+ORDER BY 
+    G.grade DESC,
+    CASE WHEN G.grade >= 8 THEN S.name  END ASC,
+    CASE WHEN G.grade < 8 THEN S.marks  END ASC;
+
