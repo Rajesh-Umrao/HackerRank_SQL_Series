@@ -1,4 +1,4 @@
-🔹① Problem	: Querying All Column for every row 
+🔹① Problem	: Japanese Cities Attributes
 	
 	Task: Query all columns (attributes) of every Japanese city in the CITY table. COUNTRYCODE for Japan is JPN.
 
@@ -13,7 +13,7 @@
 
 
 ______________________________________________________________________________________________________________________________
-🔹② Problem: Querying name column 
+🔹② Problem: Japanese Cities Names
 	Task: Query the names of all the Japanese cities in the CITY table.COUNTRYCODE for Japan is JPN.
 	
 	Solution 
