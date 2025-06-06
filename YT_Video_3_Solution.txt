@@ -1,6 +1,5 @@
-🔹① Problem	: Querying All Column for every row 
-	
-	Task: Query all columns (attributes) for every row in the CITY table.
+🔹① Problem	: Select All 
+	Task:Query all columns (attributes) for every row in the CITY table.
 
 	Solution 
 		SELECT *  FROM CITY  
@@ -10,7 +9,7 @@
 
 
 ______________________________________________________________________________________________________________________________
-🔹② Problem: Querying all column of particular City 
+🔹② Problem: Select By ID
 	Task: Query all columns for a city in CITY with the ID 1661.
 	
 	Solution 
