@@ -1,6 +1,6 @@
-🔹① Problem	: Querying All Column
+🔹① Problem	: Revising the Select Query I
 	
-	Task: Retrieve all columns for American cities from the CITY table where the population is greater than 100,000.
+	Task: Retrieve all columns for American cities from the CITY table where the population is greater than 100,000. The CountryCode for America is USA.
 
 	Solution 
 		SELECT *  FROM CITY  
@@ -14,8 +14,8 @@
 
 
 ______________________________________________________________________________________________________________________________
-🔹② Problem: Querying Only the City Names
-	Task: Retrieve only the city names (NAME field) for American cities with a population greater than 120,000.
+🔹② Problem: Revising the Select Query II
+	Task: Retrieve only the city names (NAME field) for American cities with a population greater than 120,000. The CountryCode for America is USA.
 	
 	Solution 
 		SELECT NAME FROM CITY  
