@@ -1,6 +1,4 @@
-----------------------------------------------------------------
-
-👉Problem 1️⃣: Sum of Populations of Cities in Asia
+👉Problem 1️⃣: Population Census
 
 Given the CITY and COUNTRY tables, query the sum of the populations of all cities where the CONTINENT is ‘Asia’.
 Note: CITY.CountryCode and COUNTRY.Code are matching key columns. 
@@ -22,7 +20,7 @@ WHERE
 
 ---------------------------------------------------------------
 
-👉Problem 2️⃣: List Cities in Africa
+👉Problem 2️⃣: African Cities
 📚 Problem:
 Given the CITY and COUNTRY tables, query the names of all cities where the CONTINENT is ‘Africa’.
 Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
@@ -43,7 +41,7 @@ WHERE
 
 ---------------------------------------------------------------
 
-👉Problem 3️⃣: Average City Population per Continent
+👉Problem 3️⃣: Average Population of Each Continent
 📚 Problem:
 Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and
 their respective average city populations (CITY.Population) rounded down to the nearest integer.
