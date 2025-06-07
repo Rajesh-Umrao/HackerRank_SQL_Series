@@ -442,7 +442,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/The Averages-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -457,7 +457,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Averages Population-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -472,7 +472,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Japan Population-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -487,7 +487,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Population Density Difference-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -502,7 +502,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/The Blunder-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -517,7 +517,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Top Earners-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -532,7 +532,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 2-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -547,7 +547,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 13-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -562,7 +562,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 14-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -577,7 +577,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 15-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -592,7 +592,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 16-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -607,7 +607,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 17-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -622,7 +622,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 18-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -637,7 +637,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 19-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -652,7 +652,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Weather Observation Station 20-maroon?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -668,7 +668,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Population Census-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -683,7 +683,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/African Cities-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -698,7 +698,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Avg. Population per Continent-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -713,7 +713,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Top Competitors-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -728,7 +728,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/The Report-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -743,7 +743,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Ollivander's Inventory-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -758,7 +758,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Challenges-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -773,7 +773,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
   <tr>
       <td>Basic Join </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true"_blank">
+            <a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true" target="_blank">
             <img src="https://img.shields.io/badge/Contest Leaderboard-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
@@ -782,6 +782,36 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
          <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/42)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------ADVANCED JOIN--------SQL Project Planning------------------------------------------------------------>   
+  <tr>
+      <td>Advanced Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/SQL Project Planning-crimson?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/U4Q_Lf96Vzc" target="_blank"><img src="https://img.shields.io/badge/Video--43-CLICK%20HERE-green?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/43)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pink?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------ADVANCED JOIN--------Placements------------------------------------------------------------>   
+  <tr>
+      <td>Advanced Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Placements-crimson?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/78KGZ2w818A" target="_blank"><img src="https://img.shields.io/badge/Video--44-CLICK%20HERE-green?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/44)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pink?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
   
