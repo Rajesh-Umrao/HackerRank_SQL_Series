@@ -1,7 +1,6 @@
-🔹① Problem: Weather Observation Station 9
+🔹① Problem: Weather Observation Station 10
 	
-Task: Query the list of CITY names from STATION that do not start with vowels. 
-Your result cannot contain duplicates.
+Task: Query the list of CITY names from STATION that do not end with vowels. Your result cannot contain duplicates.
 
 __________________________________________________________
 Approach-1: Using Like clause 
