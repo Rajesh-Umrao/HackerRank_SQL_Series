@@ -1,6 +1,6 @@
-🔹① Problem	: Querying specific Columns of a table 
+🔹① Problem: Weather Observation Station 6
 	
-	Task: Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result 	cannot contain duplicates
+	Task: Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates
 
 
 	A)Solution-Using like operator
