@@ -15,7 +15,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
     </tr>
   </thead>
   <tbody>
-      <!-- -------------------ROADMAP OF THIS SERIES------------------------------------------------------------ -->   
+      <!-- -------------------ROADMAP OF THIS SERIES-------------------------------------------------------------->   
     <tr>
       <td>ROAD MAP</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
@@ -408,7 +408,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
       </td>
     </tr>
       <!----------------------AGGREGATION-------------------------------------------------------------> 
-     <!---------------AGGREGATION--------1)Revising Aggregations - The Count Function------------------------------------------------------------->   
+    <!---------------AGGREGATION--------1)Revising Aggregations - The Count Function------------------------------------------------------------->   
   <tr>
       <td>Aggregation </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
@@ -497,7 +497,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/29)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-magenta?style=for-the-badge&logo=sqlite"> </a>
       </td>
-    </tr>'
+    </tr>
     <!---------------AGGREGATION--------7)The Blunder------------------------------------------------------------->   
   <tr>
       <td>Aggregation </td> 
@@ -663,6 +663,128 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <img src="https://img.shields.io/badge/SQL-Solution-magenta?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
+
+  <!---------------BASIC JOIN--------Population Census------------------------------------------------------------->   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/Population Census-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/j8jzDDPgW4o" target="_blank"><img src="https://img.shields.io/badge/Video--37-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/37)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+     <!---------------BASIC JOIN--------African Cities------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/African Cities-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/j8jzDDPgW4o" target="_blank"><img src="https://img.shields.io/badge/Video--37-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/37)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  <!---------------BASIC JOIN--------Average Population of Each Continent------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/Avg. Population per Continent-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/j8jzDDPgW4o" target="_blank"><img src="https://img.shields.io/badge/Video--37-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/37)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------BASIC JOIN--------Top Competitors------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/Top Competitors-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/z8TkGu9nYpM" target="_blank"><img src="https://img.shields.io/badge/Video--38-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/38)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------BASIC JOIN--------The Report------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/The Report-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/m6I53vVZJP0" target="_blank"><img src="https://img.shields.io/badge/Video--39-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/39)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------BASIC JOIN--------Ollivander's Inventory------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/Ollivander's Inventory-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/5nwCBByYrug" target="_blank"><img src="https://img.shields.io/badge/Video--40-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/40)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------BASIC JOIN--------Challenges------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/Challenges-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/F4m-0TQ-IyM" target="_blank"><img src="https://img.shields.io/badge/Video--41-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/41)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------BASIC JOIN--------Contest Leaderboard------------------------------------------------------------>   
+  <tr>
+      <td>Basic Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true"_blank">
+            <img src="https://img.shields.io/badge/Contest Leaderboard-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/ocVwzOhtlCU" target="_blank"><img src="https://img.shields.io/badge/Video--42-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/42)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  
   
   
   
