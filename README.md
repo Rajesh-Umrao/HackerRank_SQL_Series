@@ -30,6 +30,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
+    <!-- --------------------BASIC SELECT----------------------------------------------------------- --> 
     <!-- --------------------1) Revising the Select Query-1------------------------------------------------------------ -->   
     <tr>
       <td>Basic Select</td> 
@@ -41,7 +42,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/UsCa3K_kRUU" target="_blank"> <img src="https://img.shields.io/badge/Video--2-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"> </a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/2)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/02)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -56,7 +57,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/UsCa3K_kRUU" target="_blank"><img src="https://img.shields.io/badge/Video--2-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/2)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/02)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -71,7 +72,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/FYmFwxo3rc4" target="_blank"><img src="https://img.shields.io/badge/Video--3-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/3)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/03)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -86,7 +87,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/FYmFwxo3rc4" target="_blank"><img src="https://img.shields.io/badge/Video--3-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/3)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/03)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -101,7 +102,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/BV3TNvF2WqA" target="_blank"><img src="https://img.shields.io/badge/Video--4-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/4)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/04)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -116,7 +117,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/BV3TNvF2WqA" target="_blank"><img src="https://img.shields.io/badge/Video--4-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/4)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/04)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -131,7 +132,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/kHLYM-8tRlE" target="_blank"><img src="https://img.shields.io/badge/Video--5-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/5)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/05)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -146,7 +147,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/Lr2vflK8iKg" target="_blank"><img src="https://img.shields.io/badge/Video--6-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/6)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/06)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -161,7 +162,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/mExBdiu6Vx4" target="_blank"><img src="https://img.shields.io/badge/Video--7-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/7)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/07)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
@@ -176,10 +177,178 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
             <a href="https://youtu.be/Bn6pkANeCRo" target="_blank"><img src="https://img.shields.io/badge/Video--8-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/8)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/08)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
+    <!-- --------------------11) Weather Observation Station 6----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 6-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/AcwCytvEuD0" target="_blank"><img src="https://img.shields.io/badge/Video--9-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/09)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+     <!-- --------------------12) Weather Observation Station 7----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 7-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/FlWDGWxS5Do" target="_blank"><img src="https://img.shields.io/badge/Video--10-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/10)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+     <!-- --------------------13) Weather Observation Station 8----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 8-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/f2MZcVQ45UE" target="_blank"><img src="https://img.shields.io/badge/Video--11-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/11)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!-- --------------------14) Weather Observation Station 9----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 9-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/IQnJ6OL5c8Q" target="_blank"><img src="https://img.shields.io/badge/Video--12-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/12)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!-- --------------------15) Weather Observation Station 10----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 10-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/-biIDvFbV2E" target="_blank"><img src="https://img.shields.io/badge/Video--13-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/13)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!-- --------------------16) Weather Observation Station 11----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 11-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/nm-2l0TCa8A" target="_blank"><img src="https://img.shields.io/badge/Video--14-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/14)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!-- --------------------17) Weather Observation Station 12----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Weather Observation Station 12-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/yrp3RP2J1Y0" target="_blank"><img src="https://img.shields.io/badge/Video--15-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/15)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!-- --------------------18) Higher Than 75 Marks----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Higher Than 75 Marks-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/K0qMmdguE2k" target="_blank"><img src="https://img.shields.io/badge/Video--16-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/16)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!-- --------------------19) Higher Than 75 Marks----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Employee Names-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/MsDVtQrKa5M" target="_blank"><img src="https://img.shields.io/badge/Video--17-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/17)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+        <!-- --------------------20) Employee Salaries----------------------------------------------------------- -->   
+    <tr>
+      <td>Basic Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Employee Salaries-purple?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/uxaQj8J9qJE" target="_blank"><img src="https://img.shields.io/badge/Video--18-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/18)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+     <!----------------------ADVANCE SELECT-------------------------------------------------------------> 
+     <!---------------ADVANCESELECT--------1)Type of Triangle------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Type of Triangle-indigo?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/50Ubk3JSPLM" target="_blank"><img src="https://img.shields.io/badge/Video--19-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/19)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  
+
 
 
 
