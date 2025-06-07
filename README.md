@@ -1,4 +1,4 @@
-# HackerRank SQL Solutions  
+# HackerRank SQL Series Overview  
 
 This repository contains solutions to SQL problems from **HackerRank**.Each solution is structured with optimized queries and explanations to help understand fundamental SQL concepts. 
 
@@ -347,6 +347,66 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
+    <!---------------ADVANCESELECT--------2)The PADS------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/The PADS-indigo?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/2kLHfYn-GK0" target="_blank"><img src="https://img.shields.io/badge/Video--20-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/20)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------ADVANCESELECT--------3)Occupations------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Occupations-indigo?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/0iXtyrbd7Nk" target="_blank"><img src="https://img.shields.io/badge/Video--21-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/21)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------ADVANCESELECT--------4)Binary Tree Nodes------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Binary Tree Nodes-indigo?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/QQgmalMSsrc" target="_blank"><img src="https://img.shields.io/badge/Video--22-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/22)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!---------------ADVANCESELECT--------4)New Companies------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/New Companies-indigo?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/T21YpaZkx4A" target="_blank"><img src="https://img.shields.io/badge/Video--23-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/23)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
   
 
 
@@ -376,6 +436,17 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
 
 
 
+## Connect with me:
+
+<p align="left">
+  <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="" height="60"/></a>
+  <a href="https://t.me/rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="" height="60"/></a>
+  <a href="https://www.instagram.com/rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="" height="60"/></a>
+  <a href="https://www.facebook.com/rajesh.ai.data"" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="" height="60"/></a>
+  <a href="https://x.com/rajesh_data_ai"" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="" height="60"/></a>
+  <a href="https://discord.gg/cFbjHE5uwz"" target="_blank"><img src="https://img.icons8.com/color/48/discord--v2.png" alt="" height="60"/></a>
+  <a href="https://medium.com/@rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" alt="" height="60" style="background:#000; border-radius: 4px;"/></a>
+</p>
 
 
 
