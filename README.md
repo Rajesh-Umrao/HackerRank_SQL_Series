@@ -829,6 +829,21 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <img src="https://img.shields.io/badge/SQL-Solution-pink?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
+    <!---------------ADVANCED JOIN-------Interviews----------------------------------------------------------->   
+  <tr>
+      <td>Advanced Join </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Interviews-crimson?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/JsauibN7RuM" target="_blank"><img src="https://img.shields.io/badge/Video--46-CLICK%20HERE-green?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/46)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-pink?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
   
   
   
