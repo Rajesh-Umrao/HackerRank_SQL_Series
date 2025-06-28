@@ -1,0 +1,90 @@
+👉Problem:: Interviews
+	Julia conducted a 5 days of learning SQL contest. The start date of the contest was March 01, 2016 and the end date was March 15, 2016.
+
+	Write a query to print total number of unique hackers who made at least  submission each day (starting on the first day of the contest), and find 	the hacker_id and name of the hacker who made maximum number of submissions each day. If more than one such hacker has a maximum number of 	submissions, print the lowest hacker_id. The query should print this information for each day of the contest, sorted by the date.
+
+📰SOLUTION: ( Run on MS SQL Server) 
+----------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+                            --PART-1:: Total Nos of Unique Hackers--
+-------------------------------------------------------------------------------------------
+
+
+-- Step 1: Get all contest dates
+WITH all_dates AS (
+    SELECT DISTINCT submission_date
+    FROM Submissions
+),
+
+-- Step 2: Map which hacker submitted on which date
+hacker_days AS (
+    SELECT DISTINCT submission_date, hacker_id
+    FROM Submissions
+),
+
+-- Step 3: For each hacker and each date, check if they submitted on all dates up to that day
+cumulative_hackers AS (
+    SELECT d.submission_date, h.hacker_id
+    FROM all_dates d
+    CROSS JOIN (
+        SELECT DISTINCT hacker_id FROM hacker_days
+    ) h
+    WHERE NOT EXISTS (
+        SELECT 1
+        FROM all_dates d2
+        WHERE d2.submission_date <= d.submission_date
+        AND NOT EXISTS (
+            SELECT 1
+            FROM hacker_days hd
+            WHERE hd.submission_date = d2.submission_date
+              AND hd.hacker_id = h.hacker_id
+        )
+    )
+),
+
+
+--------------------------------------------------------------------------------------------
+                       --PART-2: Hackers who made Max Submission Eachday--
+--------------------------------------------------------------------------------------------
+
+-- Step 4: Count daily submissions & Rank hackers per day by number of submission 
+ranked_hackers AS (
+    SELECT 
+        submission_date,
+        hacker_id,
+        COUNT(*) AS submission_count,
+        RANK() OVER (
+            PARTITION BY submission_date 
+            ORDER BY COUNT(*) DESC, hacker_id ASC
+        ) AS rnk
+    FROM Submissions
+    GROUP BY submission_date, hacker_id
+),
+
+-- Step 5: Pick the top hacker for each day
+top_hacker_per_day AS (
+    SELECT submission_date, hacker_id
+    FROM ranked_hackers
+    WHERE rnk = 1
+)
+
+--------------------------------------------------------------------------------------------
+                             --FINAL PART: JOINING PART-1 + PART-2 + Sorting 
+--------------------------------------------------------------------------------------------
+
+-- Step 6: Final result
+SELECT 
+    ch.submission_date,
+    COUNT(DISTINCT ch.hacker_id) AS total_hackers,
+    th.hacker_id,
+    h.name
+FROM cumulative_hackers ch
+JOIN top_hacker_per_day th
+    ON ch.submission_date = th.submission_date
+JOIN Hackers h
+    ON th.hacker_id = h.hacker_id
+GROUP BY ch.submission_date, th.hacker_id, h.name
+ORDER BY ch.submission_date;
+
+--------------------------------------------------------------
