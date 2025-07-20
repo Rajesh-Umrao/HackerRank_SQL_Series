@@ -1,0 +1,39 @@
+👉Problem:: Draw The Triangle 1 
+	P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
+	* * * * * 
+	* * * * 
+	* * * 
+	* * 
+	*
+
+
+Write a query to print the pattern P(20).
+
+
+
+📰SOLUTION: ( Run on MYSQL) 
+----------------------------------------------------------------
+WITH RECURSIVE temp AS (
+    SELECT 20 as n
+    UNION ALL
+    SELECT n - 1 FROM temp
+    WHERE n > 1
+)
+SELECT REPEAT('* ', n) AS pattern
+FROM temp
+
+
+-------------------------------------------------------------------------------------------
+📰SOLUTION: ( Run on MYSQL)                      
+-------------------------------------------------------------------------------------------
+
+WITH temp AS (
+    SELECT 20 as n
+    UNION ALL
+    SELECT n - 1 FROM temp
+    WHERE n > 1
+)
+SELECT REPLICATE('* ', n) AS pattern
+FROM temp
+
+--------------------------------------------------------------
