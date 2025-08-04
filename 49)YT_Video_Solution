@@ -11,7 +11,7 @@ Write a query to print the pattern P(20).
 
 
 
-📰SOLUTION: ( Run on MYSQL) 
+📰SOLUTION: ( Run on MS SQL SERVER) 
 ----------------------------------------------------------------
 WITH RECURSIVE temp AS (
     SELECT 1 as n
@@ -37,4 +37,5 @@ SELECT REPLICATE('* ', n) AS pattern
 FROM temp
 
 --------------------------------------------------------------
+
 
