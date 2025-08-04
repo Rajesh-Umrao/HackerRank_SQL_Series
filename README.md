@@ -878,7 +878,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
       </td>
     </tr>
   
-<!---------------ALTERNATIVE QUERIES-------Draw The Triangle 1----------------------------------------------------------->   
+<!---------------ALTERNATIVE QUERIES-------Draw The Triangle 2----------------------------------------------------------->   
   <tr>
       <td>Alternative Queries </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
@@ -890,6 +890,22 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
          <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/49)YT_Video_Solution" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+
+    <!---------------ALTERNATIVE QUERIES-------Print Prime Numbers----------------------------------------------------------->   
+  <tr>
+      <td>Alternative Queries </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true" target="_blank">
+            <img src="https://img.shields.io/badge/Print Prime Numbers-saddlebrown?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://youtu.be/WfsN1Op8IiE" target="_blank"><img src="https://img.shields.io/badge/Video--50-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/50)YT_Video_Solution" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
