@@ -42,4 +42,5 @@ prime AS (
 SELECT STRING_AGG(CAST(n AS VARCHAR), '&') AS prime_numbers FROM prime
 OPTION (MAXRECURSION 0);
 
+
 --------------------------------------------------------------
