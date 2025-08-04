@@ -1,0 +1,45 @@
+👉Problem:: Draw The Triangle 1 
+	Write a query to print all prime numbers less than or equal to 1000.
+	Print your result on a single line, and use the ampersand () character as your separator (instead of a space)
+	For example, the output for all prime numbers <=10 would be: 2&3&5&7
+
+
+
+📰SOLUTION: ( Run on MYSQL) 
+----------------------------------------------------------------
+WITH RECURSIVE temp AS (
+    SELECT 2 AS n
+    UNION ALL 
+    SELECT n + 1 FROM temp 
+    WHERE n + 1 <= 1000
+),
+prime AS (
+    SELECT n FROM temp 
+    WHERE NOT EXISTS (
+        SELECT 1 FROM temp AS d
+        WHERE d.n > 1 AND d.n < temp.n AND temp.n % d.n = 0
+    )
+)
+SELECT GROUP_CONCAT(n SEPARATOR '&') AS prime_numbers FROM prime;
+
+
+-------------------------------------------------------------------------------------------
+📰SOLUTION: ( Run on MS SQL SERVER)                      
+-------------------------------------------------------------------------------------------
+
+WITH temp AS (
+    SELECT 2 AS n
+    UNION ALL
+    SELECT n + 1 FROM temp WHERE n + 1 <= 1000
+),
+prime AS (
+    SELECT n FROM temp 
+    WHERE NOT EXISTS (
+        SELECT 1 FROM temp AS d
+        WHERE d.n > 1 AND d.n < temp.n AND temp.n % d.n = 0
+    )
+)
+SELECT STRING_AGG(CAST(n AS VARCHAR), '&') AS prime_numbers FROM prime
+OPTION (MAXRECURSION 0);
+
+--------------------------------------------------------------
