@@ -859,9 +859,6 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <img src="https://img.shields.io/badge/SQL-Solution-pink?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-  
-  
-  
   <!---------------ALTERNATIVE QUERIES-------Draw The Triangle 1----------------------------------------------------------->   
   <tr>
       <td>Alternative Queries </td> 
@@ -893,8 +890,7 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
          <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-
-    <!---------------ALTERNATIVE QUERIES-------Print Prime Numbers----------------------------------------------------------->   
+  <!---------------ALTERNATIVE QUERIES-------Print Prime Numbers----------------------------------------------------------->   
   <tr>
       <td>Alternative Queries </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
